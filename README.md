@@ -1,2 +1,2 @@
 # 1frt-repositorio
-Primer repositorio
+Primer repositorio para curso de GIT
